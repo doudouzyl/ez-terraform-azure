@@ -1,0 +1,6 @@
+.env
+.env.production
+/.azure
+terraform.tfstate
+terraform.tfstate.backup
+/.terraform
